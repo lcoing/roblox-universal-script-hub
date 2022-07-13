@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("roblox universal client exploit", "Synapse")
+local Window = Library.CreateLib("roblox universal client exploit by idkman", "Synapse")
 
 --MAIN
 local Main = Window:NewTab("main script")
